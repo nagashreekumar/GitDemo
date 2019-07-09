@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2019-07-04T11:28:50 IST" finished-at="2019-07-04T11:28:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2019-07-04T11:28:50 IST" finished-at="2019-07-04T11:28:50 IST">
+      <class name="SampleMavenProject.SeleniumTest">
+        <test-method status="PASS" signature="facebook()[pri:0, instance:SampleMavenProject.SeleniumTest@49993335]" name="facebook" duration-ms="1" started-at="2019-07-04T11:28:50 IST" finished-at="2019-07-04T11:28:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="twitter()[pri:0, instance:SampleMavenProject.SeleniumTest@49993335]" name="twitter" duration-ms="1" started-at="2019-07-04T11:28:50 IST" finished-at="2019-07-04T11:28:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+      </class> <!-- SampleMavenProject.SeleniumTest -->
+      <class name="SampleMavenProject.AppiumTest">
+        <test-method status="PASS" signature="gmail()[pri:0, instance:SampleMavenProject.AppiumTest@5025a98f]" name="gmail" duration-ms="11" started-at="2019-07-04T11:28:50 IST" finished-at="2019-07-04T11:28:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail -->
+        <test-method status="PASS" signature="hike()[pri:0, instance:SampleMavenProject.AppiumTest@5025a98f]" name="hike" duration-ms="0" started-at="2019-07-04T11:28:50 IST" finished-at="2019-07-04T11:28:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hike -->
+      </class> <!-- SampleMavenProject.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
